@@ -2,7 +2,7 @@
 
  meu nome é Luana menineia 
 
-- estou estudando na Alura
+- estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvimento na linguagem JavaScript
 - utilizo esse espaço pata minha organização e compartilhamento des meus projetos
 
