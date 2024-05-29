@@ -4,7 +4,7 @@
 
 - estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvimento na linguagem JavaScript
-- utilizo esse espaço pata minha organização e compartilhamento des meus projetos
+- utilizo esse espaço para minha organização e compartilhamento des meus projetos
 
 - ### você entrar em contato comigo 📩
 
