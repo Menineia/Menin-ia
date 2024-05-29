@@ -12,4 +12,4 @@
 
 - luana_menineiaa
 
-- ![]()https://media1.tenor.com/m/1a70ThX-jdIAAAAd/bratz-doll.gif
+- ![](https://media1.tenor.com/m/1a70ThX-jdIAAAAd/bratz-doll.gif)
